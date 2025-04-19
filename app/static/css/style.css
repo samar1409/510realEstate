@@ -1,0 +1,18 @@
+
+body {
+    font-family: sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+}
+
+h1 {
+    color: #333;
+}
+
+/* Style for the Leaflet map container */
+#map {
+    height: 600px; /* Adjust as needed */
+    width: 100%;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
